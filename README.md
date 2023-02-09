@@ -1,8 +1,6 @@
 ### Hi there 👋
 # Hello everyone,Welcome to my Github profile
 ## My name is ***VandaRungthip***
-### *THis place that I will use for practice coding*
-### *I promise i will learn coding in 30 mins per day this is my target*
 #### 🔭 I’m currently study in Chiangmai University
 #### 👯 I have relationship with **mr.phantom**
 #### 🌱 I’m currently **learning C**
