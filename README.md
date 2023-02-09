@@ -4,7 +4,7 @@
 ### *THis place that I will use for practice coding*
 ### *I promise i will learn coding in 30 mins per day this is my target*
 #### 🔭 I’m currently study in Chiangmai University
-#### 👯 I have relationship with **B**
+#### 👯 I have relationship with **Bird**
 #### 🌱 I’m currently **learning C**
 #### 😄 I'm love pet and nature
 #### ⚡ Born ***16.01.2004***
